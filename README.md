@@ -1,5 +1,7 @@
 ## 프로젝트 구조 🦁
 
+https://hy-ai-erica.github.io
+
 ```
 HY-AI-ERICA.GITHUB.IO/
   ├── node_modules/
