@@ -1,5 +1,6 @@
 ## 프로젝트 구조 :lion:
 
+```
 HY-AI-ERICA.GITHUB.IO/
   ├── node_modules/
   ├── public/
@@ -29,7 +30,7 @@ HY-AI-ERICA.GITHUB.IO/
   ├── postcss.config.mjs
   ├── README.md
   └── tailwind.config.js
-
+```
 
 
 
