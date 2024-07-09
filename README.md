@@ -1,4 +1,4 @@
-## 프로젝트 구조
+## 프로젝트 구조 :lion:
 
 HY-AI-ERICA.GITHUB.IO/
   ├── node_modules/
