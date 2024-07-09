@@ -11,7 +11,8 @@
 
 # next.js
 /.next/
-/out/
+# /out/
+#out 폴더를 제외하려는 목적은 배포 시 생성된 정적 파일을 포함시키기 위함입니다.
 
 # production
 /build
