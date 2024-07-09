@@ -1,5 +1,4 @@
-## 프로젝트 구조 
-:lion:
+## 프로젝트 구조 🦁
 
 ```
 HY-AI-ERICA.GITHUB.IO/
