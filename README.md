@@ -1,3 +1,39 @@
+## 프로젝트 구조
+
+HY-AI-ERICA.GITHUB.IO/
+  ├── node_modules/
+  ├── public/
+  │   ├── next.svg
+  │   ├── vercel.svg
+  │   └── ico_logo.png
+  ├── src/
+  │   ├── app/
+  │   │   ├── components/
+  │   │   │   ├── Header.js
+  │   │   │   ├── Post.js
+  │   │   │   ├── Footer.js
+  │   │   ├── pages/
+  │   │   │   └── index.js
+  │   │   ├── styles/
+  │   │   │   └── globals.css
+  │   │   ├── favicon.ico
+  │   │   ├── layout.js
+  │   │   └── page.js
+  ├── .eslintrc.json
+  ├── .gitignore
+  ├── jsconfig.json
+  ├── next.config.mjs
+  ├── package-lock.json
+  ├── package.json
+  ├── postcss.config.js
+  ├── postcss.config.mjs
+  ├── README.md
+  └── tailwind.config.js
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
