@@ -1,6 +1,7 @@
 ## 프로젝트 구조 🦁
 
-https://hy-ai-erica.github.io
+
+<a href="https://hy-ai-erica.github.io" target="_blank">새 탭에서 열기</a>
 
 ```
 HY-AI-ERICA.GITHUB.IO/
