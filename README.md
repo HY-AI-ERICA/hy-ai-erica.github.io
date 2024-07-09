@@ -3,6 +3,8 @@
 
 <a href="https://hy-ai-erica.github.io" target="_blank">새 탭에서 열기</a>
 
+[새 탭에서 열기](https://hy-ai-erica.github.io){:target="_blank"}
+
 ```
 HY-AI-ERICA.GITHUB.IO/
   ├── node_modules/
