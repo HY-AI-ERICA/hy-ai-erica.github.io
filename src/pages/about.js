@@ -1,7 +1,6 @@
-// pages/about.js
 import Head from 'next/head';
-import Header from '../components/Header';
-import Footer from '../components/Footer';
+import Header from '../layouts/Header';
+import Footer from '../layouts/Footer';
 
 export default function About() {
   return (
